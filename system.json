@@ -1,0 +1,32 @@
+{
+  "name": "freakssqueele",
+  "title": "Freaks'Squeele",
+  "description": "Freaks' Squeele sur FoundryVTT !",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "9",
+  "templateVersion": 2,
+  "author": "percil",
+  "esmodules": [
+    "module/frsqjdr.js"
+  ],
+  "styles": [
+    "css/frsqjdr.css"
+  ],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "FIXME",
+  "url": "https://github.com/percil/frsqjdr_foundryvvt",
+  "manifest": "https://github.com/percil/frsqjdr_foundryvvt/main/system.json",
+  "download": "https://github.com/percil/frsqjdr_foundryvvt/archive/v0.0.1.zip",
+  "license": "LICENSE.txt"
+}
